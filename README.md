@@ -1,5 +1,5 @@
 # RabbitMqTp31
-##Mini-projet 1 : Spring Boot Producer/Consumer (messagerie JSON)
+## Mini-projet 1 : Spring Boot Producer/Consumer (messagerie JSON)
 Test Postman (ou curl)
 Méthode : POST
 URL : http://localhost:8123/publish
